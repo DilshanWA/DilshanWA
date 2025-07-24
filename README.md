@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=breadcrumbsdilshancoder&label=Profile%20views&color=0e75b6&style=flat" alt="breadcrumbsdilshancoder" /> </p>
 
-- 🔭 I’m currently working on **fixmo**
+- 🔭 I’m currently working on **Galwala.lk**
 
-- 🌱 I’m currently learning **React,Node Js,Java and Express Js**
+- 🌱 I’m currently learning **React,Node Js,Java and Express Js,Next Js,React Native**
 
 - 📫 How to reach me **dilshan.personal12@gmail.com**
 
